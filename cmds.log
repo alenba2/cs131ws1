@@ -1,0 +1,16 @@
+  997  exec bash
+  998  history > cmds.log
+  999  history > cmds.log
+ 1000  echo $home
+ 1001  ssh sjsustudent@172.31.197.164\n
+ 1002  ssh allen@172.31.197.164\n
+ 1003  ssh sjsustudent@172.31.197.164\n
+ 1004  ssh sjsustudent@172.31.197.164\n
+ 1005  ssh sjsustudent@172.31.197.164\n
+ 1006  ssh allen@172.31.197.164\n
+ 1007  ssh allen@172.31.197.164\n
+ 1008  ping 172.31.197.164
+ 1009  ssh sjsustudent@172.31.197.164\n
+ 1010  history
+ 1011  history > cmds.log
+ 1012  ssh allen@172.31.197.164\n
